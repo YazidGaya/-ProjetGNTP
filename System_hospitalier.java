@@ -34,13 +34,20 @@ public class System_hospitalier {
     }
 
     private String analyserRequete(Requête requête) {
-        
+    //Cette methode analyse la requete reçue.
+    // Elle extrait les informations nécessaires de la requête
+    // et les prépare pour le traitement ultérieur
+    // Par exemple, elle peut extraire les symptômes et les données du patient.
+    // Code existant de la méthode        
         return "requête analysée";
     }
 
     private String comparerDonnes() {
-        
+    // Cette méthode compare les données fournies avec les données existantes.
+    //Elle peut être utilisée pour vérifier la cohérence ou la validité des données
+    //Par exemple, elle peut comparé les symptômes actuels avec ceux enregistrés précédemment
+    //Code existant de la méthode        
         return "Cluster trouvé";
     }
-
 }
+
